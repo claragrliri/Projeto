@@ -2,7 +2,7 @@ qtd_excelente = 0
 qtd_bom = 0
 qtd_ruim = 0
 
-TOTAL_ENTREVISTADOS = 10
+TOTAL_ENTREVISTADOS = 50
 
 print('---- PESQUISA DE SATISFAÇÃO DO ATENDIMENTO ----\n')
 
